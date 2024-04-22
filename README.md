@@ -1,4 +1,4 @@
-# Arlec Grid Gld315ha Esphome
+# Arlec Grid GLD315HA Esphome
 ESPHome on the Arlec Grid GLD315HA Smart Light (Bunnings Australia)
 
 This is a screw-type bulb available from Bunnings.
