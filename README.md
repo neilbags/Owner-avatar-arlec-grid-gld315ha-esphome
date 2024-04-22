@@ -3,7 +3,7 @@ ESPHome on the Arlec Grid GLD315HA Smart Light (Bunnings Australia)
 
 This is a screw-type bulb available from Bunnings.
 
-Crack it open with heat and a spudger around where the white plastic meets the diffuse plastic.
+Crack it open with heat and a spudger around where the white plastic meets the diffuse plastic, then pry up the LED board
 
 It contains a Tuya WB2L module with a BK7231T chip:
 https://developer.tuya.com/en/docs/iot/wb2l-datasheet?id=K9duegc9bualu
